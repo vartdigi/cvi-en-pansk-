@@ -20,6 +20,14 @@ body {
   margin-right: auto;
 }
 
+header {
+  padding-top: 4rem;
+  background-image: url(img/suit.jpg), url(img/bg.jpg);
+  background-position: center, center;
+  background-repeat: no-repeat, repeat-x;
+  height: 360px;
+}
+
 .product {
   margin-top: -5rem;
   padding: 3rem;
